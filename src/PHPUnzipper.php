@@ -147,8 +147,8 @@ Feel free to donate at / N'hésitez pas à faire une donation : https://www.payp
 					<div class="col l3 s12">
 						<h5 class="white-text">Actions</h5>
 						<ul>
-							<li><a class="white-text" href="#!">Lien de l'article</a></li>
-							<li><a class="white-text" href="#!">Suggérer une amélioration</a></li>
+							<li><a class="white-text" href="https://brusk.me/phpunzipper-decompressez-vos-zip-via-ftp-ssh/" target="_blank">Lien de l'article</a></li>
+							<li><a class="white-text" href="http://disq.us/t/2bsw4ud" target="_blank">Suggérer une amélioration</a></li>
 							<li><b>Version de PHPUnzipper : 1.0</b></li>
 						</ul>
 					</div>
